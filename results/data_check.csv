@@ -1,0 +1,3 @@
+fund,days_compared,days_missing_from_daily,correlation_of_daily_moves,median_gap_pct_last_20_days
+SPY,466,0,0.9977555685596466,0.005981062628168665
+QQQ,466,0,0.9997766468728219,0.008082793633834573
